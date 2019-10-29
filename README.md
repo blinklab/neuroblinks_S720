@@ -1,3 +1,6 @@
+2019 updated Arduino version of Neuroblinks modified to run on Matlab 2019a with Allied Vision Mako U-051B cameras
+
+
 Neuroblinks 
 ===========
 
