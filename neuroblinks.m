@@ -1,3 +1,5 @@
+%% TEST GITHUB COMMIT
+
 % Set up environment and launch app based on which version you want to use
 function neuroblinks(varargin)
 warning('off','all') %turn off warning messages
